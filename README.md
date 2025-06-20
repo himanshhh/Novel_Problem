@@ -66,6 +66,8 @@ Two main datasets were merged:
 
 ## 🤖 Modeling
 
+![img](ML.PNG)
+
 Three regression models were trained and optimized using `GridSearchCV`:
 
 | Model              | Time Taken | Best Metrics (on Test Set) |
