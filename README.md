@@ -52,6 +52,8 @@ Two main datasets were merged:
   - Slight positive correlation observed between crime rate and property prices.
   - Outlier: Dublin (high in both price and crime).
 
+![img](ML1.PNG)
+
 ---
 
 ## 🛠️ Feature Engineering
